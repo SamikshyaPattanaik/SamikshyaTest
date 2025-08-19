@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 0673-593A
+
+ Directory of D:\Git Learning
+
+19-08-2025  11:13    <DIR>          .
+19-08-2025  11:13    <DIR>          ..
+19-08-2025  11:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,248,435,200 bytes free
